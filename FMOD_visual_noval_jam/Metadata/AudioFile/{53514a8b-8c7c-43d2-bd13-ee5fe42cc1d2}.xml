@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{53514a8b-8c7c-43d2-bd13-ee5fe42cc1d2}">
+		<property name="assetPath">
+			<value>AMN/Beast/ANM_beast_breath_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.8750113378684807</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b2f03a5-63ff-41ad-9ede-036d8cd6b295}</destination>
+		</relationship>
+	</object>
+</objects>
