@@ -19,6 +19,52 @@ MonoBehaviour:
   LoadResult: 0
   FileSizes: []
   Exists: 1
+--- !u!114 &-5932926567128706648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/music_1
+  m_EditorClassIdentifier: 
+  Path: event:/music_1
+  guid: d1d5f55225d74549ac6e74a3c7edd2c5
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 36000
+--- !u!114 &-2697647100570841882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ANM_beast
+  m_EditorClassIdentifier: 
+  Path: event:/ANM_beast
+  guid: 91a213641e16e747a3ad54e8481e5d4f
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4500
 --- !u!114 &-1772574843966459531
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59,12 +105,18 @@ MonoBehaviour:
   - {fileID: 6089119150845313679}
   EditorEvents:
   - {fileID: -1772574843966459531}
+  - {fileID: 6076585939940303602}
+  - {fileID: 5234656969674220336}
+  - {fileID: -2697647100570841882}
+  - {fileID: 3786971780874961648}
+  - {fileID: -5932926567128706648}
+  - {fileID: 9197087673427666934}
   EditorParameters: []
   MasterBanks:
   - {fileID: 6089119150845313679}
   StringsBanks:
   - {fileID: 7206988541383222205}
-  stringsBankWriteTime: 637486534438819331
+  stringsBankWriteTime: 637500153603629199
   cacheVersion: 6
 --- !u!114 &3774277480423124067
 MonoBehaviour:
@@ -87,6 +139,29 @@ MonoBehaviour:
   - Name: Desktop
     Value: 746
   Exists: 1
+--- !u!114 &3786971780874961648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/music_3
+  m_EditorClassIdentifier: 
+  Path: event:/music_3
+  guid: b24ca0cc1d121d4b8ac67a77b6aad9ca
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 53333
 --- !u!114 &3971286741193256583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110,6 +185,52 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2000
+--- !u!114 &5234656969674220336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FOLEY_chain
+  m_EditorClassIdentifier: 
+  Path: event:/FOLEY_chain
+  guid: 90b317d392dad94b9dbdd2071658eb63
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6937
+--- !u!114 &6076585939940303602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/music_2
+  m_EditorClassIdentifier: 
+  Path: event:/music_2
+  guid: 506f66d2febe2c46ba35731daf07c434
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64000
 --- !u!114 &6089119150845313679
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -125,7 +246,7 @@ MonoBehaviour:
   Path: FMOD_visual_noval_jam/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637486534438809414
+  lastModified: 637500153603619232
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -144,9 +265,32 @@ MonoBehaviour:
   Path: FMOD_visual_noval_jam/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637486534438819331
+  lastModified: 637500153603629199
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 746
+    Value: 1088
   Exists: 1
+--- !u!114 &9197087673427666934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/All_music
+  m_EditorClassIdentifier: 
+  Path: event:/All_music
+  guid: ee26c11e7858564398a4acc8007830cb
+  Banks:
+  - {fileID: 6089119150845313679}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 20000

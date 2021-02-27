@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd33b869-8fed-4836-91de-ed9976c2c5e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.visual-novel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/innhall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/innhall.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/picnic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/picnic.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/picnicEnd.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Backgrounds/picnicEnd.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/angry.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/confused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/confused.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_sad.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_wine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/elisa_wine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/embarrassed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/embarrassed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_angry.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_confused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_confused.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_embarrassed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_embarrassed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_happy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_happy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_sad.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_serious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/face_serious.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/first.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/first.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/second.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/second.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/serious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/serious.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Images/transparent.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Trees.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Trees/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Dialogues/Trees/1.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueCanvas.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueCanvas.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueCreater.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueCreater.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueTree.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueTree.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/Node.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue/Node.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GlobalController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GlobalController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/1c0ada899a6a91383e9ebf9cf1e8a85d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/1c0ada899a6a91383e9ebf9cf1e8a85d.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/1c0ada899a6a91383e9ebf9cf1e8a85d.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/1c0ada899a6a91383e9ebf9cf1e8a85d.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/Scene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/Scene/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/Scene/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Division line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Division line.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Gray.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Red.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Yellow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Large.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  empty.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big_Pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big_Pressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel_Pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel_Pressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium_Pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium_Pressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start_Pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start_Pressed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large  parchment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large  parchment.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large Set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large Set.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large stone.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium  parchment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium  parchment.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium Set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium Set.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium stone.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  parchment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  parchment.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  stone.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small Set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small Set.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/notice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fantasy Wooden GUI  Free/normal_ui_set A/notice.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fonts/16442.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fonts/16442.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fonts/19702.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Fonts/19702.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Lovepik_com-832439978-Wooden phone set icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Lovepik_com-832439978-Wooden phone set icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/1572779622_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/1572779622_39.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/36889-fon_fioletovyiy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/36889-fon_fioletovyiy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/774a3367031493.5b5897b80e572.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/774a3367031493.5b5897b80e572.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/CS-5zAuByZU11g2Toe3oEEQwFkZCuipXpT2nhN0yFmc_2kZwYDOsf6xlD1nnesvlMClKuyAowlyCVUJg4N3AuAkfnQwvtI2wcXdcdvGJiADhNdMDFs-659V8h5Sct_cw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/CS-5zAuByZU11g2Toe3oEEQwFkZCuipXpT2nhN0yFmc_2kZwYDOsf6xlD1nnesvlMClKuyAowlyCVUJg4N3AuAkfnQwvtI2wcXdcdvGJiADhNdMDFs-659V8h5Sct_cw.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/MiniMap.renderTexture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/MiniMap.renderTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/NewLayer.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/NewLayer.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/Untitled-2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/Untitled-2.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/borderSecVersion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/borderSecVersion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/grass_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/grass_3.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/maxresdefault.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/mfusq3d1cf3s15y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/mfusq3d1cf3s15y.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/pod-nadpis8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/pod-nadpis8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/Sprites/unnamed.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/png-transparent-red-cross-miscellaneous-angle-symmetry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/png-transparent-red-cross-miscellaneous-angle-symmetry.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/textbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/textbox.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/textboxchanged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/textboxchanged.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fmod_editor.log" beforeDir="false" afterPath="$PROJECT_DIR$/fmod_editor.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/GlobalController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue/DialogueController.cs" />
+      <option value="$PROJECT_DIR$/Assets/StartScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/MainMenuController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Fader.cs" />
+      <option value="$PROJECT_DIR$/Assets/LevelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GlobalController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuController.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1oKY2GQwA975YUeOsPIRfECD89y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd33b869-8fed-4836-91de-ed9976c2c5e3" name="Default Changelist" comment="" />
+      <created>1613036543877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613036543877</updated>
+      <workItem from="1613036551949" duration="10000" />
+      <workItem from="1613036757826" duration="1000" />
+      <workItem from="1614408013136" duration="3609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
