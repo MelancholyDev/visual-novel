@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{12838404-059d-44be-832b-5cbb162afd0e}">
+		<property name="assetPath">
+			<value>FOLEY/small door/fol_kitchen_door_open_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.8750113378684807</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b2f03a5-63ff-41ad-9ede-036d8cd6b295}</destination>
+		</relationship>
+	</object>
+</objects>

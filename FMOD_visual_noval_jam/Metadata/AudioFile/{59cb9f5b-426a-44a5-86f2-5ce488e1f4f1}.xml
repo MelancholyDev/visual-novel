@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{59cb9f5b-426a-44a5-86f2-5ce488e1f4f1}">
+		<property name="assetPath">
+			<value>AMN/SPARROW/amb_anm_sparrow_02.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4367346938775509</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b2f03a5-63ff-41ad-9ede-036d8cd6b295}</destination>
+		</relationship>
+	</object>
+</objects>

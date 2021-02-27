@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{4af4029e-b0be-47b7-88df-681d7974384d}">
+		<property name="assetPath">
+			<value>AMN/SPARROW/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b2f03a5-63ff-41ad-9ede-036d8cd6b295}</destination>
+		</relationship>
+	</object>
+</objects>
